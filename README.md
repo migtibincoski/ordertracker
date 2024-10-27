@@ -1,29 +1,27 @@
-<center>OrderTracker Widget</center>
-<center>
-   <a href="#">Open Project</a>
+OrderTracker Widget
+
+
+   [View Project](https://migtibincoski.github.io/ordertracker/)
    -
-   <a href="#">Download</a> 
+   [Download](archive/refs/heads/main.zip)
    -
-   <a href="javascript:alert('oi')">Share</a>
-</center>
+   [Share](#)
 
 <br />
 <br />
 
 ## Sumário
 
-1. **Título do Projeto**
-2. **Descrição**
-3. **Instalação**
-4. **Uso**
-5. **Contribuição**
-6. **Licença**
+1. **[Descrição](#Instalação)**
+2. **[Uso](#uso)**
+3. **[Contribuição](#Contribuição)**
+4. **[Licença](#Licença)**
 
 ## Descrição
 
 O OrderTracker Widget é um componente de interface de usuário que permite aos usuários acompanhar o status de seus pedidos em tempo real. Este widget é altamente personalizável e pode ser integrado facilmente em qualquer aplicação web.
 
-## Instalação
+## Uso
 
 Para instalar e configurar o Ordertracker Widget, siga os passos abaixo:
 
