@@ -1,4 +1,4 @@
-<center>OrderTracker Widget<qcenter>
+<center>OrderTracker Widget<center>
 
 <center>
    [View Project](https://migtibincoski.github.io/ordertracker/)
