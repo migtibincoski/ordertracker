@@ -1,9 +1,9 @@
-<center>OrderTracker Widget<center>
+<center><h1>OrderTracker Widget</h1><center>
 
 <center>
-   [View Project](https://migtibincoski.github.io/ordertracker/)
+   <a href="https://migtibincoski.github.io/ordertracker/">View Project</a>
    -
-   [Download](archive/refs/heads/main.zip)
+   <a href="archive/refs/heads/main.zip">Download</a>
 </center>
 
 <br />
@@ -29,15 +29,17 @@ Para instalar e configurar o Ordertracker Widget, siga os passos abaixo:
    ```sh
    git clone https://github.com/migtibincoski/ordertracker.git
    ```
+
 2. Navegue até o diretório do projeto:
 
    ```sh
    cd ordertracker
    ```
+
 3. Inicie o servidor web usando:
 
-   * Apache (Nginx, Xampp, Wampp, etc.)
-   * Extensões do Visual Studio Code (Live Preview, Live Server, Five Server...)
+   - Apache (Nginx, Xampp, Wampp, etc.)
+   - Extensões do Visual Studio Code (Live Preview, Live Server, Five Server...)
 
 ## Contribuição
 
