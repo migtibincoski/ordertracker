@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <!-- Ordertracker SDK -->
+    <script src="https://www.ordertracker.com/sdk.js"></script>
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div id="ordertracker-widget"></div>
+
+    <script>
+      Ordertracker({
+        id: "671d4da36be3f81e69f7549a",
+        /*
+            If you want to load the tracking status directly instead of showing a tracking form
+            Uncomment the next line & replace YOUR_TRACKING_NUMBER by a valid tracking number
+        */
+        //"trackingNumber": "YOUR_TRACKING_NUMBER"
+      }).render("#ordertracker-widget");
+    </script>
+  </body>
+</html>
