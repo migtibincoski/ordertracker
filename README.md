@@ -1,11 +1,12 @@
-OrderTracker Widget
+<center>OrderTracker Widget</center>
 
-
+<center>
    [View Project](https://migtibincoski.github.io/ordertracker/)
    -
    [Download](archive/refs/heads/main.zip)
    -
    [Share](#)
+</center>
 
 <br />
 <br />
